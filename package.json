@@ -1,0 +1,19 @@
+{
+  "name": "alasql-plugin-xlxs",
+  "version": "0.0.1",
+  "description": "Example plugin for alasql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alasql",
+    "plugin"
+  ],
+  "author": "NicholasDeis",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^0.25.8",
+    "xlsx": "^0.8.0"
+  }
+}
