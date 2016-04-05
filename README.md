@@ -2,7 +2,7 @@
 
 1. No calls/requiring to/of alasql
  * We want alasql to be aware of things it can plugin, not for plugins to be aware of what they can plug into.
- * Also makes version incompablites a non-issue between plugins
+ * Also makes version incompatibles a non-issue between plugins
  * alasql will control, based on it's current properties and state, if a plugin will work
  * For engine plugins this may not be an option
 2. Stackable
